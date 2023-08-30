@@ -1,12 +1,8 @@
-def calculate():
-    """
-    calculates the total
-    :return: None
-    """
-    price = 15.75
-    quantity = 3  # TODO change quantity to 5
-    print(f'Total: {price * quantity}')
+students = None
 
+def print_students(student_list):
+    # Your code here
+    pass
 
 if __name__ == '__main__':
-    calculate()
+    print_students(students)
