@@ -1,0 +1,20 @@
+[
+  {
+    "name": "test_students_is_list",
+    "function": "test_students_is_list",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_students_contains_tuples",
+    "function": "test_students_contains_tuples",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_students_tuple_structure",
+    "function": "test_students_tuple_structure",
+    "timeout": 10,
+    "points": 1
+  }
+]
