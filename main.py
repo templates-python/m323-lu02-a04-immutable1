@@ -1,3 +1,8 @@
+"""Tuples.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu02/aufgaben/immutable1
+"""
+
 students = None
 
 
